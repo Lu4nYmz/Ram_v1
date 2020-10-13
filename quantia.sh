@@ -1,5 +1,5 @@
 #!/bin/bash
-# Comandos necessário.
+# Comandos Gerais
 # free -g
 # mkdir /mnt/ramdisk
 # mount -t tmpfs -o size=500m tmpfs /mnt/ramdisk
